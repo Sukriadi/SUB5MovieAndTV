@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">SUB5MovieAndTV</string>
+    <string name="title_home">Beranda</string>
+
+    <string name="title_menu_movies">Film</string>
+    <string name="title_menu_tvshow">Televisi</string>
+
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="image_poster">Gambar Film</string>
+    <string name="date_relealesed">Tanggal Tayang</string>
+    <string name="user_score">87%</string>
+    <string name="runtime">1h 45m</string>
+    <string name="star_icon">star_icon</string>
+    <string name="timer_icon">timer_icon</string>
+    <string name="title">Title</string>
+    <string name="status">Status</string>
+    <string name="status_detail">Tayang</string>
+    <string name="icon_released_detail">icon_released_detail</string>
+    <string name="first_line">first_line</string>
+    <string name="second_line">second_line</string>
+    <string name="title_budgets">Budget</string>
+    <string name="budget">$4,000,000,00</string>
+    <string name="title_revenue">Revenue</string>
+    <string name="revenue">$19,000,000,00</string>
+    <string name="title_overview">Overview</string>
+    <string name="third_line">third_line</string>
+    <string name="languange">English</string>
+    <string name="icon_language">icon_language</string>
+    <string name="genres">Genres</string>
+    <string name="genre_detail">Genre Detail</string>
+    <string name="detail_overview">Detail Overview</string>
+    <string name="title_crew">Crew</string>
+    <string name="crew_detail">Crew Detail</string>
+    <string name="change_language_settings">Konfigurasi Bahasa</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
